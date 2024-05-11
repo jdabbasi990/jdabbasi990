@@ -29,7 +29,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ My Weapons ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,kotlin,swift,flutter,dart,unity,cs,git" />
@@ -51,19 +51,19 @@
 
 <div align="center">
   <h2>⚡ Stats ⚡</h2>
-  <br>
+<br/><br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=jdabbasi990&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-      <br/> 
-  <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=jdabbasi990&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
-  <br/> 
+<br/><br/>
 
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdabbasi990&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=jdabbasi990&theme=react" alt="GitHub Streak" />
 </div>
-
 
 <br/><br/>
 
 <hr/>
 
-<br/>
+
+
+
