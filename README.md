@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jawwad+Abbasi!;+Known+as+a+go+getter!;" />
 </h1>
 
-
 <h3 align="center">A passionate software developer in Canada 🇨🇦</h3>
 
 <div align="center">
@@ -58,13 +57,11 @@
 
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdabbasi990&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=jdabbasi990&theme=react" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jdabbasi990&theme=dark" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/><br/>
 
 <hr/>
-
-
-
-
