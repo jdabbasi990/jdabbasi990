@@ -1,5 +1,11 @@
 ![](Assets/Bottom_up.svg)
 
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/jdabbasi990/jdabbasi990"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+
+
+</p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jdabbasi990.jdabbasi990"/>
 
