@@ -4,8 +4,9 @@
 <p align="center">
     <a href="https://github.com/jdabbasi990/jdabbasi990"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/jdabbasi990/jdabbasi990"><img src="https://visitor-badge.laobi.icu/badge?page_id=jdabbasi990.jdabbasi990"></a>
-
-
+    <a href="https://github.com/jdabbasi990/jdabbasi990/graphs/contributors"><img src="https://img.shields.io/github/contributors/jdabbasi990/jdabbasi990?color=blue"></a>
+    <a href="https://github.com/jdabbasi990/jdabbasi990/stargazers"><img src="https://img.shields.io/github/stars/jdabbasi990/jdabbasi990.svg?logo=github"></a>
+    <a href="https://github.com/jdabbasi990/network/members"><img src="https://img.shields.io/github/forks/jdabbasi990/jdabbasi990.svg?color=blue&logo=github"></a>
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jdabbasi990.jdabbasi990"/>
