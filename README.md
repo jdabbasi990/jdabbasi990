@@ -1,11 +1,11 @@
 ![](Assets/Bottom_up.svg)
 <div align="center" >
-   <a href="https://github.com/Sabyasachi-Seal">
-   <img width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/Sabyasachi-Seal" /></a>
+   <a href="https://github.com/Jawwad Abbasi">
+   <img width=100% src="https://raw.githubusercontent.com/Jawwad-Abbasi/Jawwad-Abbasi/ouput/action2.gif" href="https://github.com/Jawwad-Abbasi" /></a>
 </div>
 <div align=center>
-   <a href="https://github.com/Sabyasachi-Seal">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   <a href="https://github.com/Jawwad-Abbasi">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Jawwad-Abbasi/Jawwad-Abbasi/ouput/divider.gif">
    </a>
 </div>
 
