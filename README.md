@@ -3,6 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/jdabbasi990/jdabbasi990"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/jdabbasi990/jdabbasi990"><img src="https://visitor-badge.laobi.icu/badge?page_id=jdabbasi990.jdabbasi990"></a>
 
 
 </p>
