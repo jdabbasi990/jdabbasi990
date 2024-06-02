@@ -1,6 +1,6 @@
 ![](Assets/Bottom_up.svg)
 
-<!--   my-icons -->
+<!--   my-Tags -->
 <p align="center">
     <a href="https://github.com/jdabbasi990/jdabbasi990"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/jdabbasi990/jdabbasi990"><img src="https://visitor-badge.laobi.icu/badge?page_id=jdabbasi990.jdabbasi990"></a>
@@ -9,7 +9,6 @@
     <a href="https://github.com/jdabbasi990/network/members"><img src="https://img.shields.io/github/forks/jdabbasi990/jdabbasi990.svg?color=blue&logo=github"></a>
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jdabbasi990.jdabbasi990"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jawwad+Abbasi!;+Known+as+a+go+getter!;" />
