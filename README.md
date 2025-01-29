@@ -6,17 +6,7 @@
 
 <h3 align="center">A passionate software developer in Canada 🇨🇦</h3>
 
-<div align="center">
- 
- 🔭 I’m currently working as **a game developer**
 
- 🌀 I’m currently working on **a Flutter App with Gemini**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Unity, Flutter, Firebase... or anything [here](https://github.com/jdabbasi990/jdabbasi990/issues)**
-
- </div>
  <!-- My socials-->
  <div align="center"> 
   <a href="mailto:jawwadabbasi990@gmail.com">
